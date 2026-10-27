@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Example for the Japan-timezone case; use the user's existing timezone. -->
+<LEConfig>
+  <Profiles>
+    <Profile Name="Simplified Chinese per application" Guid="bd6e6a26-7289-4556-9cf4-aa91b2f61486" MainMenu="false">
+      <Parameter></Parameter>
+      <Location>zh-CN</Location>
+      <Timezone>Tokyo Standard Time</Timezone>
+      <RunAsAdmin>false</RunAsAdmin>
+      <RedirectRegistry>false</RedirectRegistry>
+      <IsAdvancedRedirection>false</IsAdvancedRedirection>
+      <RunWithSuspend>false</RunWithSuspend>
+    </Profile>
+  </Profiles>
+</LEConfig>
